@@ -1,0 +1,37 @@
+.box{
+    display:grid;
+    justify-content:center;
+    align-items:center;
+    margin-left: 40%;
+    margin-right: 40%;
+    margin-top: 5%;
+    gap: 30px;
+}
+.uname{
+    width: 220px;
+    height: 30px;
+    border-radius: 3px;
+    border : 1px solid black
+}
+.password{
+    margin-top: 10px;
+    width: 220px;
+    height: 30px;
+    border-radius: 3px;
+    border : 1px solid black
+}
+.img{
+    margin-top: 10px;
+    margin-left: 27px;
+}
+.bttn{
+    margin-top: 10px;
+    width: 220px;
+    height: 30px;
+    border-radius: 3px;
+    border: none;
+    background-color: rgb(197, 144, 66);
+}
+.nav{
+    margin-top: 10px;
+}
